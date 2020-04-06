@@ -101,6 +101,10 @@ Running `lua ../find_correlations.lua` from with the `Debug/` or `Release/` dire
 - [ ] Find correlations between Summoner direction and any of the dumped data and rank them
 - [ ] Figure out if any of the found correlations are actually usable in a speedrun
 
+## Data Dumps
+5k complete seed files(https://ryanliptak.com/misc/d2-map-investigation-20200402.1.zip) All 4 .csv files. 300mb compressed, 2.3gb uncompressed.
+12.3k inc. seed files(https://filebin.net/im6dqknkq2eqgjly) arcane.csv & areas.positional.relationships.csv for rand. 12.3k seeds. (still building other files).
+
 ## Acknowledgements
 
 The foundational code is a modified version of [slashdiablo-maphack](https://github.com/underbent/slashdiablo-maphack) (specifically [slippittydo's fork](https://github.com/slippittydo/slashdiablo-maphack)).
